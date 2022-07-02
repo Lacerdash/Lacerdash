@@ -1,4 +1,4 @@
-## Oi!! eu sou o Fernando Lacerda
+## Olá, eu sou o Fernando Lacerda
 - 👀 I’m interested in sport, video games and data science
 - 🌱 I’m currently learning python, SQL, Power BI and other tools and knowledges in the data science camp
 
