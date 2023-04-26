@@ -8,7 +8,7 @@ I'm passionate about Data Science, Business Inteligence, and being able to conne
 
 #### 👀 What I've been up to lately
 - I'm doing an Machine Learning formation at [**Alura Data Science School**](https://www.alura.com.br/escola-data-science)
-- - Finishing a webscrapping personal project using libraries such as [**Beautiful Soup**](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) and [**Selenium**](https://selenium-python.readthedocs.io/)
+- Finishing a webscrapping personal project using libraries such as [**Beautiful Soup**](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) and [**Selenium**](https://selenium-python.readthedocs.io/)
 - Check out this [**Riot API Extraction Guide**](https://github.com/Lacerdash/Extracting-League-of-Legends-data-with-Riot-Api/blob/main/Extracting%20Match%20Data.ipynb) I created from scratch using python request, pandas, and time library
 - I'm learning ML libraries such as [**SKLEARN**](https://scikit-learn.org/stable/), [**PySpark MLlib**](https://spark.apache.org/docs/2.0.0/api/python/pyspark.mllib.html)
 
