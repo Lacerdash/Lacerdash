@@ -33,4 +33,8 @@ I'm passionate about Data Science, Business Inteligence, and being able to conne
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lacerdash&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
+#### 🖥️ Technologies
 <img align="center" alt="Fernando-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="Fernando-Power-BI" height="25" width="20" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png">
+<img align="center" alt="Fernando-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+ 
