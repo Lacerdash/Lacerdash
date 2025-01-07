@@ -1,5 +1,5 @@
 ## Hi there! I’m [Fernando](https://www.linkedin.com/in/fernando-lacerda-/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
-I'm passionate about Data Science, Business Inteligence, and being able to connect business needs to Data related solutions. I'm Business Student at [**SKEMA**](https://www.skema.edu/) an International School. 
+I'm passionate about Data Science, Business Inteligence, and being able to connect business needs to Data related solutions. I'm a Data Analyst for PayFit and Business Student at [**SKEMA**](https://www.skema.edu/) an International School. 
  
  
 #### 🎮 What I Like to do
@@ -7,10 +7,9 @@ I'm passionate about Data Science, Business Inteligence, and being able to conne
 - I also like to hang out with my friends 😁
 
 #### 👀 What I've been up to lately
-- Just finished a ML formation at [**Alura Data Science School**](https://www.alura.com.br/escola-data-science)
+- Dive into this comprehensive [**Riot API Extraction Guide**](https://github.com/Lacerdash/Extracting-League-of-Legends-data-with-Riot-Api/blob/main/Extracting%20Match%20Data.ipynb) I created from scratch using python request, pandas, and time library. It provides insights on extracting League of Legends data efficiently.
 - Explore my last freelancing project: [**Market Research Data Analysis**](https://github.com/Lacerdash/Market-Research-Data-Analysis)
 - Explore my last project: [**Nested Cross Validation project**](https://github.com/Lacerdash/Nested-Cross-Validation/tree/master) where I use **Scikit Learn** [cross_val_score](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.cross_val_score.html) and [RandomizedSearchCV](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.RandomizedSearchCV.html)
-- Dive into this comprehensive [**Riot API Extraction Guide**](https://github.com/Lacerdash/Extracting-League-of-Legends-data-with-Riot-Api/blob/main/Extracting%20Match%20Data.ipynb) I created from scratch using python request, pandas, and time library. It provides insights on extracting League of Legends data efficiently.
 - I'm learning ML libraries such as [**SKLEARN**](https://scikit-learn.org/stable/), [**PySpark MLlib**](https://spark.apache.org/docs/2.0.0/api/python/pyspark.mllib.html)
 
 
